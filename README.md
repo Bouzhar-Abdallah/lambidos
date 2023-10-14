@@ -13,6 +13,8 @@ You can check out some of my projects and if you got any questions you can reach
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 
 ## Frameworks, Platforms and Libraries
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -25,6 +27,8 @@ You can check out some of my projects and if you got any questions you can reach
 ![npm](https://badges.aleen42.com/src/npm.svg) -->
 ## IDEs/Editors
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 <!-- ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) -->
 ## Design
 ![Figma](https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=figma&logoColor=white)
