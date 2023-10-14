@@ -17,6 +17,7 @@ You can check out some of my projects and if you got any questions you can reach
 
 
 ## Frameworks, Platforms and Libraries
+![Docker](https://img.shields.io/badge/Docker-00084D?style=for-the-badge&logo=docker&logoColor=1D63ED)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-blue.svg?style=for-the-badge&logo=Mysql&logoColor=white)
