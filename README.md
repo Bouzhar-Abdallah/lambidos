@@ -54,11 +54,11 @@ You can check out some of my projects and if you got any questions you can reach
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
-## 🥳 Some of my projects
+<!-- ## 🥳 Some of my projects
 
 - [RentMeNow for booking cars](https://rentmenow.netlify.app) - **Recommended** ✨
 - [Professional website for a company](https://co-ius.netlify.app/) - **Recommended** ✨
-- [Todo List app](https://daalimouhcine.github.io/Todo_List/) 
+- [Todo List app](https://daalimouhcine.github.io/Todo_List/)  -->
 
 <!-- ## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg)  -->
 
@@ -69,13 +69,11 @@ You can check out some of my projects and if you got any questions you can reach
 
 <!-- BLOG-POST-LIST:END -->
 
-## 🤙🏻 You can reach out
+<!-- ## 🤙🏻 You can reach out
 
 Feel free to contact me about any problems you are facing. I will try to help as much as I can 😉
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhcine-daali/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:the.daali.mouhcine@gmail.com)](mailto:the.daali.mouhcine@gmail.com)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daalimouhcine)  
-    
-
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=med-kandirou&layout=compact&theme=vue-dark" />
+ -->
