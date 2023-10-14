@@ -15,16 +15,12 @@ You can check out some of my projects and if you got any questions you can reach
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## Frameworks, Platforms and Libraries
-![Vue js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-blueviolet.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material](https://img.shields.io/badge/Material-ui-0081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-blue.svg?style=for-the-badge&logo=Mysql&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-red.svg?style=for-the-badge&logo=UML&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-lightgrey.svg?style=for-the-badge&logo=MVC&logoColor=white)
-<!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux) 
+<!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![webpack](https://badges.aleen42.com/src/webpack.svg)
 ![npm](https://badges.aleen42.com/src/npm.svg) -->
 ## IDEs/Editors
